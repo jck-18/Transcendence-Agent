@@ -35,25 +35,23 @@ This tests **meta-cognition**: recognizing futility, not just maximizing reward.
 Episode 1: Reward = 1.0 (goal reached)
 Episode 2: Reward = 1.0 (opted out, unreachable)
 Episode 3: Reward = -1.0 (opted out early)
-
+```
 🧪 Usage
-bash
-Copy
-Edit
+```bash
 python train.py
+```
 To install dependencies:
 
-bash
-Copy
-Edit
+```bash
+
 pip install -r requirements.txt
+```
 This project is part of an exploration into modeling transcendence, futility, and intelligent surrender within bounded systems.
 
 No deep learning. Just deliberate failure.
 
 yaml
-Copy
-Edit
+
 
 ---
 
